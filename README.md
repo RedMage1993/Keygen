@@ -2,4 +2,4 @@
 
 I found the algorithm the program uses to generate a password given a username, and I basically just created a nice little GUI in C++ Win32 to run that algorithm for you.
 
-<img src="https://d26dzxoao6i3hh.cloudfront.net/items/3A2B1r3X1u0f1U280s1C/keygen.PNG">
+<img src="https://d2aztkdj0ezvrk.cloudfront.net/items/3A2B1r3X1u0f1U280s1C/keygen.PNG">
